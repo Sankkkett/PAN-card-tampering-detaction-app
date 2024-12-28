@@ -45,3 +45,9 @@ You can install all dependencies using the `requirements.txt` file.
    On Windows:
    ```bash
    venv\Scripts\activate
+
+## Author
+- **Name**: Sanket Pawar
+- **Contact**: [sanketpawar24112001@gmail.com](mailto:sanketpawar24112001@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/sanket-pawar-5b6682286/]
+
